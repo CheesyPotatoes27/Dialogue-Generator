@@ -11,13 +11,13 @@ The program uses API calls, so if you would like you can replace the model with 
 This section is the initial generation of the script. Drag in NPC and item prefabs to be mentioned in the script. Any extra information can be added in the "free prompt" section (e.g. character personality, storyline).
 Click generate to generate the script. The compiled file will be in Assets/Resources/Dialoge/TestFile.ink.
 
-#Add knot
+# Add knot
 This feature inserts a chapter of story (knot) after the selected knot. Fill in the knot title, and where it will divert to (or leave empty to end the dialogue). Add information about what the knot should talk about in the "Instructions" text field.
 
-#Edit knot
+# Edit knot
 This feature re-generates a selected knot. First select the knot to change.
 You can change where the end of the knot diverts to, add a choice, or change a choice's divert (leave any field empty if you don't want any of these aforementioned changes).
 Add information about what the knot should talk about in the "Free Prompt" text field.
 
-#Delete knot
+# Delete knot
 Select a knot to be deleted. 
