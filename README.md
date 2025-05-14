@@ -1,3 +1,6 @@
+# Preface
+To use this package you will have to install Unity and create a new empty project. This program has only been tested on Unity 6, in a 3D environment. There is no guarantee that this project will work with any other Unity version or environment.
+
 # Dialogue-Generator
 A dialogue script generator tool in Unity using the LLM Gemini API. In this package includes the tool, example scenes, and free assets from the Unity Asset store. To use this tool, download the .unitypackage file in this repo, and import the package into your Unity project. To open the program interface, click on the "Tools" tab at the top in the toolbar, then "Dialogue Generator.
 
